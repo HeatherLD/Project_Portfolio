@@ -1,1 +1,2 @@
 # Project_Portfolio
+My Extract Transform Load (ETL) project focused on looking at severe weather over the past 3.75 years based on a dataset published by the National Oceanic and Atmospheric Administration. My conclusions from analysis are that it is hard to see any definite upward trend in terms of numbers of events or in terms of damage. I did learn a lot about what constitutes a severe weather event, as well as a refresher in SQL, which I used to load the data.
